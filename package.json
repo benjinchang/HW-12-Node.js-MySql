@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Command line application using mysql database and node.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjinchang/HW-12-Node.js-MySql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjinchang/HW-12-Node.js-MySql/issues"
+  },
+  "homepage": "https://github.com/benjinchang/HW-12-Node.js-MySql#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
