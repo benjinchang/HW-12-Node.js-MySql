@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/benjinchang/HW-12-Node.js-MySql#readme",
   "dependencies": {
+    "inquirer": "^3.0.6",
     "mysql": "^2.13.0"
   }
 }
